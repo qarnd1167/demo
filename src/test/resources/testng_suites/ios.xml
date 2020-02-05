@@ -19,6 +19,8 @@
 	<parameter name="jenkinsPipelineEnvironments" value="DEMO" />
 	<parameter name="jenkinsJobExecutionOrder" value="3" />
 	<parameter name="jenkinsJobExecutionMode" value="continue" />
+	<parameter name="jenkinsNodeLabel" value="web"/>
+
 
 	<test name="Mobile test">
 		<classes>
